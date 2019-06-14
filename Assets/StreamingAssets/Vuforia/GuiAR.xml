@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="camino_real_azul" size="566.000000 823.272705" />
+    <ImageTarget name="camino_real_naranja" size="566.000000 823.272705" />
+    <ImageTarget name="mora_castilla_amarilla" size="566.000000 823.272705" />
+    <ImageTarget name="mora_castilla_naranja" size="566.000000 823.272705" />
+    <ImageTarget name="torre_del_reloj_azul" size="566.000000 823.272705" />
+    <ImageTarget name="torre_del_reloj_naranja" size="566.000000 823.272705" />
+    <ImageTarget name="san_francisco_azul" size="566.000000 823.272705" />
+    <ImageTarget name="san_francisco_naranja" size="566.000000 823.272705" />
+  </Tracking>
+</QCARConfig>
