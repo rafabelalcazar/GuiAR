@@ -164,8 +164,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92c9f26eabab447ebaa3443545975abe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &114325777
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -551,7 +549,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92c9f26eabab447ebaa3443545975abe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Name: 
 --- !u!114 &200348713
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -600,7 +597,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Logo
+          m_StringArgument: Modo de uso
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
@@ -921,8 +918,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92c9f26eabab447ebaa3443545975abe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &477049599
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -958,7 +953,7 @@ MonoBehaviour:
     m_HighlightedTrigger: Highlighted
     m_PressedTrigger: Pressed
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 802634055}
   m_OnClick:
     m_PersistentCalls:
