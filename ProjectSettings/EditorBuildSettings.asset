@@ -16,6 +16,7 @@ EditorBuildSettings:
     guid: c5833dfbd2a6043a599de144005dc672
   - enabled: 0
     path: Assets/Scenes/Tutorial II.unity
+<<<<<<< HEAD
     guid: b544918c0485141e9a64cb7585a9babb
   - enabled: 0
     path: Assets/Scenes/Tutorial III.unity
@@ -29,4 +30,31 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ARScene.unity
     guid: 28109ade185cb9a458e8f3cf36a2fb14
+=======
+    guid: effbd70d97b8041db870255ec204bb71
+  - enabled: 1
+    path: Assets/Scenes/ARScene.unity
+    guid: 28109ade185cb9a458e8f3cf36a2fb14
+  - enabled: 1
+    path: Assets/Scenes/Tutorial III.unity
+    guid: e713c5f8ee1534e688b776c4876f5056
+  - enabled: 1
+    path: Assets/Scenes/MG_AR.unity
+    guid: 9b7f12a41b95b4143b6ec0dc3b1cb485
+  - enabled: 1
+    path: Assets/Scenes/MG_Mapa.unity
+    guid: de2e7c05303694aa8ae412b6491b0a12
+  - enabled: 1
+    path: Assets/Scenes/MG_Preferencias.unity
+    guid: 5eb9bb51a14ac4f89b48c6c9c1dfffa0
+  - enabled: 1
+    path: Assets/Scenes/Tutorial IV.unity
+    guid: b6e7ae106a8d84c9e92d3eec6ea7c196
+  - enabled: 1
+    path: Assets/Scenes/Logo.unity
+    guid: 9015310867c8143adbbaa67ccfb85324
+  - enabled: 1
+    path: Assets/Scenes/Modo de uso.unity
+    guid: d6ab4e4a905f24c899b443399e092f5f
+>>>>>>> 1071be8ec62e2a2d271bd3cb02171bfcecac8516
   m_configObjects: {}
