@@ -5,25 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: "Assets/Scenes/Inicio de sesi\xF3n.unity"
     guid: 06957d0c076614492babaf977e1189ee
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Registro.unity
     guid: d4682348e33e347c9953f4423f1143ad
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Tutorial I.unity
     guid: c5833dfbd2a6043a599de144005dc672
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Tutorial II.unity
     guid: b544918c0485141e9a64cb7585a9babb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Tutorial III.unity
     guid: 371058fc3f9ae4d0aa7e6ffceb9ff1df
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Tutorial IV.unity
     guid: 2b566af00526941b6ab129d82ee5779b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Logo.unity
     guid: 9015310867c8143adbbaa67ccfb85324
+  - enabled: 1
+    path: Assets/Scenes/ARScene.unity
+    guid: 28109ade185cb9a458e8f3cf36a2fb14
   m_configObjects: {}
