@@ -18,6 +18,6 @@ public class URL : MonoBehaviour
 
     public void link ()
     {
-        Application.OpenURL("https://www.google.com");
+        Application.OpenURL("http://www.colombia.travel/es/a-donde-ir/pacifica/popayan/actividades/torre-del-reloj");
     }
 }
