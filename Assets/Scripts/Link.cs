@@ -10,7 +10,7 @@ public class Link : MonoBehaviour
     }
     public void twitter()
     {
-        Application.OpenURL("https://twitter.com");
+        Application.OpenURL("https://twitter.com/appGuiAR");
     }
     public void instagram()
     {
