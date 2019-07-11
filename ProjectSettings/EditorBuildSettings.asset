@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ARScene.unity
     guid: 28109ade185cb9a458e8f3cf36a2fb14
+  - enabled: 0
+    path: Assets/Scenes/geo.unity
+    guid: f36bd7e75070e954e849cf050462b20a
   m_configObjects: {}
