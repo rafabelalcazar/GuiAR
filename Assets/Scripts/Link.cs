@@ -6,15 +6,15 @@ public class Link : MonoBehaviour
 
     public void facebook()
     {
-        Application.OpenURL("https://www.youtube.com");
+        Application.OpenURL("https://www.facebook.com/Guiar-467469410720997/");
     }
     public void twitter()
     {
-        Application.OpenURL("https://twitter.com/appGuiAR");
+        Application.OpenURL("https://twitter.com/proyectoguiar");
     }
     public void instagram()
     {
-        Application.OpenURL("https://www.instagram.com");
+        Application.OpenURL("https://www.instagram.com/proyectoguiar/");
     }
 
 }
