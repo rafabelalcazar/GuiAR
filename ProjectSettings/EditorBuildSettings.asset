@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/ARScene.unity
     guid: 28109ade185cb9a458e8f3cf36a2fb14
   - enabled: 1
+    path: Assets/Scenes/ARScene Modo Libre.unity
+    guid: 4cc41ec7a7ce54cf39e035fe973a9c25
+  - enabled: 1
     path: Assets/Scenes/estadio.unity
     guid: 9b1ebfae1454c20429e105ea878e3778
   - enabled: 1
@@ -26,6 +29,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MG_Preferencias.unity
     guid: 3ebad00fb817b4143a48e2b2c94bd03f
+  - enabled: 1
+    path: Assets/Scenes/MG_Preferencias Modo Libre.unity
+    guid: b67209e159dba4514b660c24316c54d2
   - enabled: 1
     path: Assets/Scenes/Modo de uso.unity
     guid: d6ab4e4a905f24c899b443399e092f5f
