@@ -8,40 +8,40 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ARScene.unity
     guid: 28109ade185cb9a458e8f3cf36a2fb14
-  - enabled: 1
-    path: Assets/Scenes/ARScene Modo Libre.unity
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/1d34eac8934a84025b082e3b587a4c58
     guid: 1d34eac8934a84025b082e3b587a4c58
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/estadio.unity
     guid: 9b1ebfae1454c20429e105ea878e3778
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/geo.unity
     guid: f36bd7e75070e954e849cf050462b20a
-  - enabled: 1
+  - enabled: 0
     path: "Assets/Scenes/Inicio de sesi\xF3n.unity"
     guid: 06957d0c076614492babaf977e1189ee
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Logo.unity
     guid: 9015310867c8143adbbaa67ccfb85324
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MG_AR.unity
     guid: 952cec3d0955240cd90c4eed929def05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MG_Mapa.unity
     guid: 6244815d2cedf46cb921ba10c0a925f1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MG_Preferencias.unity
     guid: 3ebad00fb817b4143a48e2b2c94bd03f
-  - enabled: 1
-    path: Assets/Scenes/MG_Preferencias Modo Libre.unity
-    guid: 2504c60496f3a44179b0bc365cd4afb6
-  - enabled: 1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/Scenes/Modo de uso.unity
     guid: d6ab4e4a905f24c899b443399e092f5f
-  - enabled: 1
+  - enabled: 0
     path: "Assets/Scenes/Selecci\xF3n ruta.unity"
     guid: d3aa1b2ebed154ac0a03cb1b859ae0ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Registro.unity
     guid: d4682348e33e347c9953f4423f1143ad
   - enabled: 1
