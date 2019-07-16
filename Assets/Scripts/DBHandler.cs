@@ -36,9 +36,11 @@ public class DBHandler : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
-    void Update()
+    public MySqlDataReader Select(string select)
     {
-        
+        MySqlCommand cmd = conexion.CreateCommand();
+        cmd.CommandText = "SELECT * FROM" + select;
+        MySqlDataReader resultado = cmd.ExecuteReader();
+        return resultado;
     }
 }
