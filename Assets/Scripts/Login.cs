@@ -20,10 +20,12 @@ public class Login : MonoBehaviour
         if (resultado.HasRows)
         {
             Debug.Log("Usuario encontrado");
+            resultado.Close();
         }
         else
         {
             Debug.Log("Usuario o contraseña incorrecto");
+            resultado.Close();
         }
 
 
