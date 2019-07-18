@@ -16,7 +16,7 @@ public class DBHandler : MonoBehaviour
         conectData = "Server=" + DBServer 
                 +";Database=" + DBName
                 +";User=" + DBUser
-                +";Pass="+ DBPass
+                +";Pwd="+ DBPass
                 +";";
         conectMyServer();
     }

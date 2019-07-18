@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657838, g: 0.49641234, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657868, g: 0.49641263, b: 0.57481706, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -265,9 +265,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1911405493}
-        m_MethodName: loadScene
-        m_Mode: 5
+      - m_Target: {fileID: 1911405491}
+        m_MethodName: Logear
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -1555,10 +1555,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a547c8b8775dc0d44a10c0c7715fae55, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DBServer: localhost
-  DBName: guiar
-  DBUser: root
-  DBPass: 
+  DBServer: bysdwp8zgps06559o0c5-mysql.services.clever-cloud.com
+  DBName: bysdwp8zgps06559o0c5
+  DBUser: usg7vlbw2o1gf2pw
+  DBPass: NJmUhn9hBw2jsp5id2jL
 --- !u!4 &1612503749
 Transform:
   m_ObjectHideFlags: 0
