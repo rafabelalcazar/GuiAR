@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using MySql.Data.MySqlClient;
+using UnityEngine.SceneManagement;
 
 public class Register : MonoBehaviour
 {
@@ -36,6 +37,7 @@ public class Register : MonoBehaviour
             Resultado = adminMYSQL.Insert(query);
             Debug.Log("El nuevo usuario ha sido creado");
             Resultado.Close();
+            SceneManager.LoadScene("StartSession");
             //AbrirCerrarRegistro();
         }
     }
