@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using MySql.Data.MySqlClient;
+using UnityEngine.SceneManagement;
 
 public class Login : MonoBehaviour
 {
@@ -23,6 +24,7 @@ public class Login : MonoBehaviour
             Debug.Log("Usuario encontrado");
             msg.text = "Bienvenido";
             resultado.Close();
+            SceneManager.LoadScene("Tutorial I");
         }
         else
         {
