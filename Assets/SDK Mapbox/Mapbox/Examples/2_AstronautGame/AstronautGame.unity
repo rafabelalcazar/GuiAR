@@ -969,18 +969,17 @@ PrefabInstance:
     - target: {fileID: 114603753021256032, guid: 98be219873e6d4dffb5949746f515a33,
         type: 3}
       propertyPath: m_Text
-      value: '<b>Astronaut Game</b>
-
-
-        This is an enhanced version of the "Location-based Game Starting Point." It
-        features custom styling, procedural vehicle movement based on real road data,
-        and dynamic lighting. Click on the road in the editor to navigate the astronaut
-        character to a point via the Directions API. On a device, this example uses
-        GPS location information to move and rotate the character.'
+      value: "<b>GuiAR - Map</b>\n\nRecorre la ciudad y aprende acerca de los lugares
+        turisticos de esta. \n\n\xC9xitos! "
       objectReference: {fileID: 0}
     - target: {fileID: 1912118435774886, guid: 98be219873e6d4dffb5949746f515a33, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224518340005525372, guid: 98be219873e6d4dffb5949746f515a33,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 110
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 98be219873e6d4dffb5949746f515a33, type: 3}
