@@ -43,4 +43,12 @@ public class DBHandler : MonoBehaviour
         MySqlDataReader resultado = cmd.ExecuteReader();
         return resultado;
     }
+
+    public MySqlDataReader Insert(string insert)
+    {
+        MySqlCommand cmd = conexion.CreateCommand();
+        cmd.CommandText = "INSERT INTO" + insert;
+        MySqlDataReader resultado = cmd.ExecuteReader();
+        return resultado;
+    }
 }

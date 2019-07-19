@@ -1555,8 +1555,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a547c8b8775dc0d44a10c0c7715fae55, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DBServer: http://160.153.156.41/
-  DBName: guiarlab
+  DBServer: andreshinestrosa.co
+  DBName: guiar
   DBUser: rafaelb
   DBPass: rafaelb
 --- !u!4 &1612503749
