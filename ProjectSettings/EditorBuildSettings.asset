@@ -53,4 +53,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Tutorial IV.unity
     guid: b6e7ae106a8d84c9e92d3eec6ea7c196
+  - enabled: 1
+    path: Assets/SDK Mapbox/Mapbox/Examples/2_AstronautGame/AstronautGame.unity
+    guid: 23b3522d4f6fa450eb781397db4b26ed
   m_configObjects: {}
